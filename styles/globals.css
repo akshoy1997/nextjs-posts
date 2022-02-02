@@ -14,3 +14,33 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.BackButton{
+  margin-top: 20px;
+  margin-left: 10vw;
+}
+
+.headerText{
+  margin: 20px 0px;
+  text-align: center;
+  font-size: 32px;
+}
+
+.PostCard {
+  margin: 50px 15vw;
+}
+
+.PostTitle{
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+}
+
+.PostBody{
+  text-align: center;
+  padding: 10px 10vw;
+}
+
+.PostActionsContainer{
+  margin: 20px;
+}
